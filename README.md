@@ -1,6 +1,4 @@
-Here is the updated README. A dedicated section (**Solar vs. Lunar: Usage Differences**) has been added to explicitly show how to differentiate the two concepts in your code, highlighting the different function usages and the data they return.
 
-***
 
 # High-Precision Eclipse Calculator
 
